@@ -1,7 +1,4 @@
-
-
-
-
+contact us for full code
 
 
     GENERAL
@@ -33,12 +30,12 @@
     is no a table empty a message dialogue is sent to the user That there is no a table with this
     requirements so he try another requirements or logout, if There exist a table which suits the
     client requirements the program transfer the user to the Reserving window in which the user choose
-    the main dish, appetizer and the dessert. If the User hadnít choose any dish and pressed reserve
+    the main dish, appetizer and the dessert. If the User hadn‚Äôt choose any dish and pressed reserve
     there will be a message dialogue tell him to choose At least one dish and add it, there is button
     at the top which the user click on to show the menu in another window, Also there is a button which
     turn the user back to the table window and if the user  pressed on it all the order that the user 
     added will be deleted. There is also a delivery button which the user can click on, it transfer the
-    user to a new window with a quotation saying ìcoming soonî. Off course we are doing everything we can
+    user to a new window with a quotation saying ‚Äúcoming soon‚Äù. Off course we are doing everything we can
     do to update this program to a new version which supports delivery to the clients. If the client chooses
     the dishes and pressed reserve, program will transfer to the receipt window there he can see the receipt
     in details and he also can press the rating button to rate the restaurant and the app and off course he 
@@ -48,7 +45,7 @@
 
     If the entered username refers to a cooker
     Cooker window is opened. If there any reservation it should appears on the cooker window in a table of orders
-    and table number the cooker can move with the cursor in the order box if the order is too long. The chef isnít
+    and table number the cooker can move with the cursor in the order box if the order is too long. The chef isn‚Äôt
     allowed to know the client name but the waiter is allowed.
 
     If the entered username refers to a waiter
@@ -57,14 +54,14 @@
 
     If the entered username refers to a manager
     He is switched to a window which contains many details he has the access to create a new user for a new employee,
-    he has the right to delete an employee but he doesnít have the right to delete a manager like him as he should 
+    he has the right to delete an employee but he doesn‚Äôt have the right to delete a manager like him as he should 
     contact the head manager to do something like this, also the manager has the right to delete a client account.
     Manager can see tables reserved, look after employees, see daily profit and see some statistics of the restaurant.
     Every day manager should open the app and start new day button to delete the data of the previous day so client can
     reserve tables again
 
     In every window in the program there is a logout or back button.
-    If you pressed close which is in the right corner int the top of window all the program will be closed and if you hadnít pressed the reserve button all your order will be deleted.
+    If you pressed close which is in the right corner int the top of window all the program will be closed and if you hadn‚Äôt pressed the reserve button all your order will be deleted.
     If there any complaint contact us :
 
     mohamedkamalahmed@gmail.com
